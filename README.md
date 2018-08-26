@@ -1,4 +1,5 @@
 # hello-world
-Test - 1st Repository
+1st Repository on Github
 
-Hello! I'm trying out github. I'm interested in learning more about programming!
+Hello! I'm learning Github. After a couple years hiatus I'm back. 
+Hope I can learn more about programming this year.
